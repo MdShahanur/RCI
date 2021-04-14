@@ -1,0 +1,22 @@
+@media(max-width:575px){
+    .navbar-light .navbar-brand {        
+        text-align: center;
+        width: 100%;
+        margin: auto;}
+        .menue{
+            width: 100%;
+            text-align: center;
+        }
+        .li_menue{
+    width: 50%;
+    
+        }
+
+}
+
+
+@media(max-width:374px){
+    .webkit_tex h5{
+        font-size: 15px;
+    }
+}
